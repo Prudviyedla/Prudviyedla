@@ -1,4 +1,4 @@
-<img align="centre" alt="Coding" width="1000" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
+<img align="centre" alt="Coding" width="990" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Yedla Prudvi Teja</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast from India</h3>
