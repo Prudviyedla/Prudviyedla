@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yedla Prudvi Teja</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3YncxOHhpeDY1OWI4ZTE2OGt2anFocTd4M2Zibm1od3owamo3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd3YncxOHhpeDY1OWI4ZTE2OGt2anFocTd4M2Zibm1od3owamo3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudviyedla&label=Profile%20views&color=0e75b6&style=flat" alt="prudviyedla" /> </p>
 
